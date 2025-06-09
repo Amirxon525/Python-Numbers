@@ -25,7 +25,7 @@ Umumiy summa: $186 (one hundred and eighty-six, сто восемьдесят ш
 
 ## Vazifa:
 
-Foydalanuvchi fast-food mahsulotlarining narxlarini `$` ko‘rinishda vergul bilan kiritadi (masalan: `4.5, 3.2, 5.5`).
+Foydalanuvchi fast-food mahsulotlarining narxlarini  kiritadi (masalan: `4.5, 3.2, 5.5`).
 Dastur quyidagilarni bajarsin:
 
 1. Narxlarni jamlab hisoblasin.
@@ -35,7 +35,7 @@ Dastur quyidagilarni bajarsin:
 **Masalan:**
 
 ```
-Mahsulot narxlarini kiriting ($, vergul bilan): 4.5, 3.2, 5.5
+Mahsulot narxlarini kiriting: 4.5, 3.2, 5.5
 Umumiy narx: $13.20 (thirteen dollars and twenty cents, тринадцать долларов двадцать центов)
 Yaxlitlangan narx: $13.20 (thirteen dollars and twenty cents, тринадцать долларов двадцать центов)
 ```
@@ -48,7 +48,7 @@ Yaxlitlangan narx: $13.20 (thirteen dollars and twenty cents, тринадцат
 
 ## Vazifa:
 
-Haftalik xarajatlaringizni `$` da 7 ta qiymat sifatida kiriting (vergul bilan ajratilgan). Masalan: `12.0, 15.0, 10.0, 13.0, 12.5, 11.0, 14.0`.
+Haftalik xarajatlaringizni 7 ta qiymat sifatida kiriting. Masalan: `12.0, 15.0, 10.0, 13.0, 12.5, 11.0, 14.0`.
 
 Dastur quyidagilarni bajaradi:
 
@@ -58,7 +58,7 @@ Dastur quyidagilarni bajaradi:
 **Misol:**
 
 ```
-Haftalik harajatlarni kiriting ($, vergul bilan): 12.0, 15.0, 10.0, 13.0, 12.5, 11.0, 14.0
+Haftalik harajatlarni kiriting: 12.0, 15.0, 10.0, 13.0, 12.5, 11.0, 14.0
 O‘rtacha harajat: $12.64 (twelve dollars and sixty-four cents, двенадцать долларов шестьдесят четыре цента)
 ```
 
